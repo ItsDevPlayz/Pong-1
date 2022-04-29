@@ -1,0 +1,19 @@
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.heading h3{
+    display: inline;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+#play,#status,#restart{
+    font-size: 22px;
+    font-family: monospace;
+    letter-spacing: 2px;
+}
+
